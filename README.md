@@ -6,4 +6,6 @@ Dataset : Iris Dataset
 # Assignment 3 : ETL with pandas and matplotlib
 Dataset : 3 custom sets made from dataset of assignment 1 (uploaded to repo)
 # Assignment 4 : Regression with R
-Dataset : Iris Dataset
+Dataset : Iris Dataset for Linear regression, Obesity dataset for multiple regression, automobile mpg data for multivariate regression
+# Assignment 5 : Time Series Models
+Dataset : Oildata, elecsales, elecequip from "fpp2" library in R
