@@ -1,3 +1,6 @@
+# Team Members 
+Adithya Kiran PES1201700231 || Chirag P Tubakad PES1201700896 || Arpit Agarwal PES1201701084 || Nandakrishna PES1201701090
+
 # Data-Analytics-Assignments
 # Assignment 1 : Data Visualization
 Dataset : https://www.kaggle.com/rahulaakkina/2019-indian-loksabha-elections (uploaded to repo)
