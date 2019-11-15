@@ -1,12 +1,13 @@
 # SCATTER PLOT
-import matplotlib.pyplot as plt
 import pandas as pd
+import matplotlib.pyplot as plt
 from pandas.plotting import scatter_matrix
 import numpy as np
 import matplotlib.mlab as mlab
-import statistics as st
+#import statistics as st
 import re
 import time
+
 df = pd.read_csv("./CANDIDATE_ANALYSED_LIST.csv")
 
 def partyVsEarnings():

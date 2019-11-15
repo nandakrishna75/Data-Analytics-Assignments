@@ -1,4 +1,4 @@
-library("fpp2")
+        library("fpp2")
 # MOVING AVERAGES
 # using the electicity sales of south australia as the dataset
 autoplot(elecsales) + xlab("Year") + ylab("GWh") + ggtitle("Annual electricity sales: South Australia")
